@@ -1,0 +1,19 @@
+.padre{
+    text-align: center;
+}
+
+.hijo{
+    padding: 25px;
+    padding-top: 43px;
+    margin: 10px;
+  display: inline-block;
+
+  border-radius: 30px;
+
+   
+}
+
+.dat{
+    font-size: 17px;
+}
+
